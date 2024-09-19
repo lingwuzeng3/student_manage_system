@@ -1,0 +1,3 @@
+5  
+001 张三 20 男 1998-01-01 山东济南 zhangsan@example.com
+002 李四 21 女 1997-05-05  山东青岛  lisi@example.com
